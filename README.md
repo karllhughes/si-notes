@@ -7,7 +7,7 @@
 ## MVC and Web Architecture
 
 ### Web Architecture
-- Go over [Internet/Web App Overview](http://www.slideshare.net/cchamnap/introduction-to-web-architecture)
+- Go over [Internet/Web App Overview](https://docs.google.com/presentation/d/1eYsbssqAW4X-1qMLzKeDLlNh4EcuYcbHIYiRLjjGSPI/edit?usp=sharing)
 
 ### Where does Rails fit into web architecture?
 - Rails is a framework (server side, CGI scripting)
